@@ -1,0 +1,5 @@
+day la noi dung file text
+today is Monday
+yeu cau chuyen duoc file:
+	cung cap cho server: dia chi ban dau cua file	
+	dia chi = ten duong dan cua file + ten file (ten file.phan mo rong)
